@@ -4,13 +4,13 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 
 ### My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,bootstrap,illustrator,figma,photoshop,canva,render,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,bootstrap,illustrator,figma,photoshop,canva,netlify,vercel,sqlite)](https://skillicons.dev)
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Chemistry2i=wambogo-hassan&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chemistry2i&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Chemistry2i=wambogo-hassan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=radical)
 
 ### Connect with me
 
@@ -21,4 +21,5 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 <a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+Use code with caution.
 
