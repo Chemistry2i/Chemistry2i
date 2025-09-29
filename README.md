@@ -8,9 +8,9 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wambogo-hassan&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Chemistry2i=wambogo-hassan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wambogo-hassan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Chemistry2i=wambogo-hassan&layout=compact&theme=radical)
 
 ### Connect with me
 
