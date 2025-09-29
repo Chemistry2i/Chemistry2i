@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Chemistry2i/Chemistry2i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate MERN stack developer focused on building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I enjoy solving complex problems and creating seamless user experiences. Welcome to my digital space!
 
-Here are some ideas to get you started:
+### My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,bootstrap,illustrator,figma,photoshop,canva,render,sqlite)](https://skillicons.dev)
+
+### My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wambogo-hassan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wambogo-hassan&layout=compact&theme=radical)
+
+### Connect with me
+
+<a href="https://wambogo-sadat.onrender.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+</a>
+
+<a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
