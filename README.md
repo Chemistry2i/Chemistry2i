@@ -1,6 +1,8 @@
 # Hi there! 👋
 
-I'm a passionate MERN stack developer focused on building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I enjoy solving complex problems and creating seamless user experiences. Welcome to my digital space!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
+</p>
 
 ### My Tech Stack
 
@@ -12,6 +14,19 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=radical)
 
+### My GitHub Streaks
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark)](https://demolab.com)
+
+### My Recent Activity
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Visitors
+
+![Visitor count](https://komarev.com/ghpvc/?username=Chemistry2i&color=green&style=flat)
+
 ### Connect with me
 
 <a href="https://wambogo-sadat.onrender.com">
@@ -21,5 +36,9 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 <a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-Use code with caution.
 
+### GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Chemistry2i/Chemistry2i/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
