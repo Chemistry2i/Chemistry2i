@@ -4,9 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
 </p>
 
+### About Me & My Goals
+
+I'm a passionate MERN stack developer focused on building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I enjoy solving complex problems and creating seamless user experiences.
+
+My goal is to focus on consistent, incremental commits to deliver high-quality code. The charts below reflect my dedication to that practice, and I am always striving to deliver robust and efficient solutions.
+
 ### My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
+
+### What I'm Learning Now
+
+I am currently expanding my skill set by diving into:
+
+[![Learning](https://skillicons.dev/icons?i=java,mysql,vue)](https://skillicons.dev)
 
 ### My GitHub Stats
 
