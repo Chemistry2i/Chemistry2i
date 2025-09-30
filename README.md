@@ -6,7 +6,7 @@
 
 ### My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,bootstrap,illustrator,figma,photoshop,canva,netlify,vercel,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
 
 ### My GitHub Stats
 
