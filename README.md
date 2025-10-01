@@ -12,7 +12,7 @@ My goal is to focus on consistent, incremental commits to deliver high-quality c
 
 ### My Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
 
 ### What I'm Learning Now
 
