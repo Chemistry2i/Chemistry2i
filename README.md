@@ -49,6 +49,10 @@ I am currently expanding my skill set by diving into:
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
+<a href="mailto:wambogohassan63@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Email" />
+</a>
+
 ### GitHub Contribution Snake
 
 <p align="center">
