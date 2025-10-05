@@ -26,6 +26,9 @@ I am currently expanding my skill set by diving into:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=radical)
 
+<!-- Trophy Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
+
 ### My GitHub Streaks
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark)](https://demolab.com)
@@ -38,10 +41,6 @@ I am currently expanding my skill set by diving into:
 ### Visitors
 
 ![Visitor count](https://komarev.com/ghpvc/?username=Chemistry2i&color=green&style=flat)
-
-<!-- Trophy Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
-
 
 ### Connect with me
 
