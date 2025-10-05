@@ -39,6 +39,10 @@ I am currently expanding my skill set by diving into:
 
 ![Visitor count](https://komarev.com/ghpvc/?username=Chemistry2i&color=green&style=flat)
 
+<!-- Trophy Card -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
+
+
 ### Connect with me
 
 <a href="https://wambogo-sadat.onrender.com">
@@ -51,6 +55,10 @@ I am currently expanding my skill set by diving into:
 
 <a href="mailto:wambogohassan63@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://github.com/Chemistry2i">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 ### GitHub Contribution Snake
