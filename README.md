@@ -42,8 +42,9 @@ I am currently expanding my skill set by diving into:
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
 
 ### My GitHub Streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark&cache_buster=123)](https://demolab.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark)](https://demolab.com)
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark)](https://demolab.com)-->
 
 ### My Recent Activity
 
