@@ -5,10 +5,8 @@
 </div> -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=radical&height=100&section=header&text=Wambogo%20Hassan%20Sadat&fontSize=45&fontColor=36BCF7" alt="Animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=radical&height=100&section=header&text=Wambogo%20Hassan%20Sadat&fontSize=45&fontColor=36BCF7" alt="Animated header" />
 </div>
-
-
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
 </p> -->
