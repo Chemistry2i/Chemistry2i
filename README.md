@@ -16,11 +16,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
 </p>
 
-### About Me & My Goals
+### 🚀 About Me
 
-I'm a passionate MERN stack developer focused on building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I enjoy solving complex problems and creating seamless user experiences.
+I'm a passionate MERN stack developer focused on building dynamic and responsive web applications. With expertise in MongoDB, Express.js, React, and Node.js, I enjoy solving complex problems and creating seamless user experiences. 
+<p>I focus on **clean code, scalable architecture**, and **beautiful UI/UX**.</p>
 
-My goal is to focus on consistent, incremental commits to deliver high-quality code. The charts below reflect my dedication to that practice, and I am always striving to deliver robust and efficient solutions.
+- 🌱 Currently working on: **Campus Voting System (MERN)**
+- 💡 Exploring: **Spring Boot APIs & Microservices**
+- 🤝 Looking to collaborate on: **Open-source frontend or MERN projects**
+- 🎯 Goal: Build impactful digital solutions that improve productivity and experiences
+
+---
 
 ### My Tech Stack
 
