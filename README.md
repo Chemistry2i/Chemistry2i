@@ -32,6 +32,8 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
 
+---
+
 ### 📘 Currently Learning
 
 Expanding my knowledge in **backend architecture** and **new frameworks**:
