@@ -77,13 +77,24 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+### ⚡ Fun Facts
+
+- 💬 I love designing futuristic dashboards  
+- 🧩 I believe good UI = better usability  
+- 🎮 I enjoy coding challenges and logical problem-solving  
+- 🧠 I learn best by building real-world projects  
+
+---
+
 ### Visitors
 
 ![Visitor count](https://komarev.com/ghpvc/?username=Chemistry2i&color=green&style=flat)
 
-### Connect with me
+<!--### Connect with me>
 
-<a href="https://wambogo-sadat.onrender.com">
+<!-- <a href="https://wambogo-sadat.onrender.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
 </a>
 
@@ -97,7 +108,27 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 
 <a href="https://github.com/Chemistry2i">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+</a> -->
+---
+
+### 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://wambogo-sadat.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wambogohassan63@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Chemistry2i" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
 
 ### GitHub Contribution Snake
 
@@ -105,7 +136,7 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   <img src="https://github.com/Chemistry2i/Chemistry2i/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://wambogo-sadat.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
@@ -118,4 +149,15 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   <a href="https://github.com/Chemistry2i">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
+</div> -->
+
+<p align="center">
+  <b>💡 Have an idea or project in mind? Let’s build something amazing together!</b>  
+</p>
+<p align="center">
+  <a href="mailto:wambogohassan63@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
+
+---
