@@ -26,11 +26,15 @@ My goal is to focus on consistent, incremental commits to deliver high-quality c
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
 
-### What I'm Learning Now
+### 📘 Currently Learning
 
-I am currently expanding my skill set by diving into:
+Expanding my knowledge in **backend architecture** and **new frameworks**:
 
-[![Learning](https://skillicons.dev/icons?i=java,mysql,vue)](https://skillicons.dev)
+![Learning](https://skillicons.dev/icons?i=java,mysql,vue)
+
+- ⚙️ Building APIs with **Spring Boot**
+- 🔐 Mastering **Authentication & Security**
+- ⚡ Deepening **State Management with Redux & Vuex**
 
 <!--### My GitHub Stats-->
 
