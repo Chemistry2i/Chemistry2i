@@ -34,9 +34,14 @@ I am currently expanding my skill set by diving into:
 
 ### My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chemistry2i&show_icons=true&theme=radical)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=radical)
+### 📊 GitHub Stats
+
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Chemistry2i&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=radical) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Chemistry2i&theme=react-dark) |
+| --- | --- | --- |
+
+---
 
 <!-- Trophy Card -->
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
