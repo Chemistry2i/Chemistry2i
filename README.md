@@ -32,7 +32,7 @@ I am currently expanding my skill set by diving into:
 
 [![Learning](https://skillicons.dev/icons?i=java,mysql,vue)](https://skillicons.dev)
 
-### My GitHub Stats
+<!--### My GitHub Stats-->
 
 ---
 
@@ -43,8 +43,17 @@ I am currently expanding my skill set by diving into:
 
 ---
 
-<!-- Trophy Card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=darkhub&margin-w=15&margin-h=15" alt="GitHub Trophies">
+### 🏆 GitHub Trophies & Streaks
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Chemistry2i&theme=tokyonight&cache_buster=123" alt="GitHub Streaks" />
+</p> -->
+
+---
 
 ### My GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark&cache_buster=123)](https://demolab.com)
