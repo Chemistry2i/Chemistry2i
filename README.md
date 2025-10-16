@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=radical&height=100&section=header&text=Wambogo%20Hassan%20Sadat&fontSize=45&fontColor=36BCF7" alt="Animated header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:36BCF7,100:0A192F&height=150&section=header&text=Wambogo%20Hassan%20Sadat&fontSize=46&fontColor=FFFFFF&animation=twinkling&desc=&descAlignY=65" alt="Header" />
 </p>
 
 <p align="center">
