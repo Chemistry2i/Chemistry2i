@@ -1,20 +1,20 @@
-# Hi there! 👋
-
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=radical&height=100&section=header&text=Wambogo%20Sadat&fontSize=45" alt="Animated header" />
-</div> -->
-
-<div align="center">
+<!-- HEADER -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=radical&height=100&section=header&text=Wambogo%20Hassan%20Sadat&fontSize=45&fontColor=36BCF7" alt="Animated header" />
-</div>
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
-</p> -->
-
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!"/>
 </p>
+
+<h2 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h2>
+<p align="center"><b>💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
+</p>
+
+---
 
 ### 🚀 About Me
 
