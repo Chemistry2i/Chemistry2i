@@ -1,13 +1,13 @@
 <!-- HEADER -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:36BCF7,100:0A192F&height=150&section=header&text=Wambogo%20Hassan%20Sadat&fontSize=46&fontColor=FFFFFF&animation=twinkling&desc=&descAlignY=65" alt="Header" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!"/>
-</p>
+</p> -->
 
-<h2 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h2>
+<h1 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h1>
 <p align="center"><b>💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator</b></p>
 
 <p align="center">
