@@ -66,14 +66,14 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Chemistry2i&show_icons=true&theme=radical) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=radical) | ![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Chemistry2i&theme=react-dark) |
 | --- | --- | --- |
 
----
+<!-----
 
 ### ⏱️ Coding Activity (WakaTime)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chemistry2i&layout=compact&theme=radical" alt="WakaTime Stats" />
 </p>
-
+-->
 ---
 
 ### 🏆 GitHub Trophies & Streaks
