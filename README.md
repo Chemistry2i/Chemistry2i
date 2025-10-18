@@ -37,10 +37,14 @@ I'm a passionate MERN stack developer focused on building dynamic and responsive
 
 ---
 
-### My Tech Stack
+### 💻 My Tech Stack (Development)
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,illustrator,figma,photoshop,netlify,vercel,sqlite)](https://skillicons.dev)
+[![Tech Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite)](https://skillicons.dev)
 
+---
+
+### 🎨 My Design Tools (UI/UX)
+[![Design Skills](https://skillicons.dev/icons?i=illustrator,figma,photoshop,xd,webflow)](https://skillicons.dev)
 ---
 
 ### 📘 Currently Learning
