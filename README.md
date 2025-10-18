@@ -16,12 +16,12 @@
   />
 </p>
 
-<h1 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h1>
-<p align="center"><b>💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator</b></p>
+<!-- <h1 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h1>
+<p align="center"><b>💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator</b></p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
-</p>
+</p> -->
 
 ---
 
