@@ -9,7 +9,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!"/>
 </p> -->
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Wambogo Hassan Sadat Developer Banner" />
+  <img 
+    src="https://github.com/user-attachments/assets/b679a6cb-70b3-4555-ad30-343cd0fb0733" 
+    alt="Wambogo Hassan Sadat Portfolio Banner"
+    width="100%" 
+  />
 </p>
 
 <h1 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h1>
