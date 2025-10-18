@@ -8,20 +8,20 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" alt="Hi!"/>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github.com/user-attachments/assets/b679a6cb-70b3-4555-ad30-343cd0fb0733" 
     alt="Wambogo Hassan Sadat Portfolio Banner"
     width="100%" 
   />
-</p>
-
-<!-- <h1 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h1>
-<p align="center"><b>💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator</b></p> -->
-
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
 </p> -->
+
+<h1 align="center">Hi, I'm <b>Wambogo Hassan Sadat</b> 👋</h1>
+<p align="center"><b>💻 MERN Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Innovator</b></p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=600&height=50&lines=I'm+a+MERN+Stack+Developer.;Building+dynamic+web+apps.;Exploring+new+technologies.;Solving+complex+problems." alt="Typing animation" />
+</p>
 
 ---
 
