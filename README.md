@@ -68,6 +68,14 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 
 ---
 
+### ⏱️ Coding Activity (WakaTime)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chemistry2i&layout=compact&theme=radical" alt="WakaTime Stats" />
+</p>
+
+---
+
 ### 🏆 GitHub Trophies & Streaks
 
 <p align="center">
