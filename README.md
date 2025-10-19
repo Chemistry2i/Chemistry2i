@@ -137,7 +137,7 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 
 ### 🤝 Connect With Me
 
-<div align="center">
+<div align="left">
   <a href="https://wambogo-sadat.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
