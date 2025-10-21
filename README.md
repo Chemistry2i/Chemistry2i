@@ -97,7 +97,7 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark)](https://demolab.com)-->
 
 ### My Recent Activity
-[![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
+[![committers.top badge](https://user-badge.committers.top/uganda_public/Chemistry2i.svg)](https://user-badge.committers.top/uganda_public/Chemistry2i)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
