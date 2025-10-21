@@ -117,23 +117,6 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
 
 ![Visitor count](https://komarev.com/ghpvc/?username=Chemistry2i&color=green&style=flat)
 
-<!--### Connect with me>
-
-<!-- <a href="https://wambogo-sadat.onrender.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="mailto:wambogohassan63@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Email" />
-</a>
-
-<a href="https://github.com/Chemistry2i">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a> -->
 ---
 
 ### 🤝 Connect With Me
