@@ -94,7 +94,6 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   <img src="https://streak-stats.demolab.com/?user=Chemistry2i&theme=tokyonight&cache_buster=123" alt="GitHub Streaks" />
 </p>
 
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=Chemistry2i&theme=dark)](https://demolab.com)-->
 
 ### My Recent Activity
 [![committers.top badge](https://user-badge.committers.top/uganda_public/Chemistry2i.svg)](https://user-badge.committers.top/uganda_public/Chemistry2i)
