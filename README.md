@@ -143,6 +143,15 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   <img src="https://github.com/Chemistry2i/Chemistry2i/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 </p>
 
+<p align="center">
+  <b>💡 Have an idea or project in mind? Let’s build something amazing together!</b>  
+</p>
+<p align="center">
+  <a href="mailto:wambogohassan63@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+  </a>
+</p>
+
 <!-- <div align="center">
   <a href="https://wambogo-sadat.onrender.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
@@ -157,14 +166,5 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div> -->
-
-<p align="center">
-  <b>💡 Have an idea or project in mind? Let’s build something amazing together!</b>  
-</p>
-<p align="center">
-  <a href="mailto:wambogohassan63@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-36BCF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-</p>
 
 ---
