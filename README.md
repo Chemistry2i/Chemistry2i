@@ -135,6 +135,21 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   </a>
 </div>
 
+<!-- <div align="center">
+  <a href="https://wambogo-sadat.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:wambogohassan63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Chemistry2i">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div> -->
+
 ---
 
 ### GitHub Contribution Snake
@@ -152,19 +167,6 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   </a>
 </p>
 
-<!-- <div align="center">
-  <a href="https://wambogo-sadat.onrender.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:wambogohassan63@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Chemistry2i">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div> -->
+
 
 ---
