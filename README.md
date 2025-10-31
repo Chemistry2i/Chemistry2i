@@ -82,6 +82,7 @@ Expanding my knowledge in **backend architecture** and **new frameworks**:
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
+<!--adjustment-->
 <!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Chemistry2i&theme=tokyonight&cache_buster=123" alt="GitHub Streaks" />
 </p> -->
