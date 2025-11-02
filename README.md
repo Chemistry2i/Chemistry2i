@@ -1,5 +1,5 @@
 <!-- Futuristic Cyan Blue GitHub README -->
-<!--
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Wambogo+Hassan+Sadat!;💻+MERN+Stack+Developer;🎨+UI/UX+Designer;🚀+Innovator+%7C+Tech+Visionary" alt="Typing Animation" />
 </h1>
@@ -26,15 +26,23 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 
 ## ⚙️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+---
+
+## ⚙️ other technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
 </p>
 
 ---
 
 ## 🎨 UI/UX Design Tools
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" />
 </p>
 
@@ -44,7 +52,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 
 Expanding my full-stack toolkit with new frameworks and backend expertise:
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,mysql,vue,spring" />
 </p>
 
@@ -67,17 +75,17 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Top 10 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
+- 🥇 **Top 150 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
 - 🚀 Contributed to multiple **open-source MERN projects**
 - 🎨 Designed **UI systems for futuristic dashboards**
 - 📚 Built **multi-role authentication systems**
-- 💬 Public Speaker at **AI & Developer Events**
+- 💬 Backend developer at **Peculiar Technologies**
 
 ---
 
 ## 📊 GitHub Insights
 
-<div align="center">
+<div align="left">
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=Chemistry2i&show_icons=true&theme=react&title_color=00FFFF&icon_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) |
 |---|---|
@@ -86,22 +94,23 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 </div>
 
+
 ---
 
 ## 🔥 GitHub Streaks & Trophies
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=Chemistry2i&theme=tokyonight&ring=00FFFF&fire=00BFFF&currStreakNum=00FFFF" alt="GitHub Streaks" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
 
 ## ⏱️ Coding Activity (WakaTime)
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
 </p>
 
@@ -150,161 +159,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 <p align="center">
   <b style="color:#00FFFF;">💡 Let’s build the future — one line of code at a time.</b>
-</p> -->
+</p> 
 
 <!-- Futuristic Orbitron-Themed GitHub README -->
-
-<h1 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Wambogo+Hassan+Sadat!;💻+MERN+Stack+Developer;🎨+UI/UX+Designer;🚀+Innovator+%7C+Tech+Visionary" alt="Typing Animation" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Futuristic%20Web%20Designs-00FFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-0077FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Passion-Innovation%20%26%20AI%20Integration-00BFFF?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🧠 About Me</h2>
-
-I’m a **passionate MERN Stack Developer** who loves crafting **responsive, dynamic, and futuristic web apps**.  
-I blend **creativity with logic** — writing clean, maintainable code while designing stunning user interfaces.
-
-- 🌱 Currently building: **Campus Voting System (MERN)**
-- 💡 Exploring: **Spring Boot APIs & Microservices**
-- 🤝 Open to collaborate on: **Innovative MERN or UI/UX projects**
-- 🎯 Mission: To craft *visually powerful* & *intelligently structured* web solutions that inspire users.
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">⚙️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🎨 UI/UX Design Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🚧 Currently Learning</h2>
-
-Expanding my full-stack toolkit with new frameworks and backend expertise:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,vue,spring" />
-</p>
-
-- ⚙️ Building RESTful APIs with **Spring Boot**
-- 🔐 Strengthening **Security & Auth Systems**
-- ⚡ State Management: **Redux** & **Vuex**
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🧩 Featured Projects</h2>
-
-| 🌐 Project | ⚙️ Description | 🚀 Stack |
-|-------------|----------------|-----------|
-| [Campus Voting System](https://github.com/Chemistry2i) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap |
-| [Campus Alert System](https://github.com/Chemistry2i) | Class alerts & notifications system | MERN Stack |
-| [Portfolio Website](https://wambogo-sadat.onrender.com) | Personal futuristic portfolio | HTML, CSS, JS, FontAwesome |
-| [Sacco Management Dashboard](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🏆 Achievements & Highlights</h2>
-
-- 🥇 **Top 10 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
-- 🚀 Contributed to multiple **open-source MERN projects**
-- 🎨 Designed **UI systems for futuristic dashboards**
-- 📚 Built **multi-role authentication systems**
-- 💬 Public Speaker at **AI & Developer Events**
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">📊 GitHub Insights</h2>
-
-<div align="center">
-
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Chemistry2i&show_icons=true&theme=react&title_color=00FFFF&icon_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) |
-|---|---|
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chemistry2i&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph)
-
-</div>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🔥 GitHub Streaks & Trophies</h2>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Chemistry2i&theme=tokyonight&ring=00FFFF&fire=00BFFF&currStreakNum=00FFFF" alt="GitHub Streaks" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">⏱️ Coding Activity (WakaTime)</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
-</p>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">💬 Fun Facts</h2>
-
-- ⚡ I design dashboards that *feel alive* ✨  
-- 🧠 My philosophy: “Clean UI + Solid Logic = Perfection”  
-- 🧩 I enjoy code refactoring, animation, and creative design  
-- 🎮 When not coding, I explore futuristic tech concepts  
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🌌 My Vision</h2>
-
-> “To merge design intelligence and code precision into future-ready digital systems.”
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🌐 Let's Connect</h2>
-
-<div align="center">
-  <a href="https://wambogo-sadat.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=About.me&logoColor=0D1117" />
-  </a>
-  <a href="https://www.linkedin.com/in/wambogo-hassan-sadat-a47320341" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wambogohassan63@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Chemistry2i" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" />
-  </a>
-</div>
-
----
-
-<h2 align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">🧬 Contribution Snake</h2>
-<p align="center">
-  <img src="https://github.com/Chemistry2i/Chemistry2i/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center" style="font-family: 'Orbitron', sans-serif; color: #00FFFF;">
-  💡 Let’s build the future — one line of code at a time.
-</p>
-
-
 
