@@ -31,7 +31,6 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 </p>
 
 ---
-
 ## ⚙️ other technologies
 
 <p align="left">
