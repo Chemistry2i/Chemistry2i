@@ -65,9 +65,10 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 | 🌐 Project | ⚙️ Description | 🚀 Stack |
 |-------------|----------------|-----------|
-| [Campus Voting System](https://github.com/Chemistry2i) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap |
+| [Campus Voting System](https://campus-ballot.onrender.com) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap |
 | [Campus Alert System](https://github.com/Chemistry2i) | Class alerts & notifications system | MERN Stack |
 | [Portfolio Website](https://wambogo-sadat.onrender.com) | Personal futuristic portfolio | HTML, CSS, JS, FontAwesome |
+| [Agricultural System](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB, Oracle |
 | [Sacco Management Dashboard](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
 
 ---
