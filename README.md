@@ -1,4 +1,6 @@
 
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Wambogo+Hassan+Sadat!;💻+MERN+Stack+Developer;🎨+UI/UX+Designer;🚀+Innovator+%7C+Tech+Visionary" alt="Typing Animation" />
 </h1>
@@ -9,7 +11,8 @@
   <img src="https://img.shields.io/badge/Passion-Innovation%20%26%20AI%20Integration-00BFFF?style=for-the-badge" />
 </p>
 
----
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🧠 About Me
 
@@ -21,7 +24,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 - 🤝 Open to collaborate on: **Innovative MERN or UI/UX projects**
 - 🎯 Mission: To craft *visually powerful* & *intelligently structured* web solutions that inspire users.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## ⚙️ Tech Stack
 
@@ -29,22 +32,29 @@ I blend **creativity with logic** — writing clean, maintainable code while des
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
----
+
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,figma,git,github,vscode" />
+  <br/>
+  <b style="color:#00FFFF;">React</b> • <b style="color:#00FFFF;">Node.js</b> • <b style="color:#00FFFF;">MongoDB</b> • <b style="color:#00FFFF;">Figma</b>
+</p> -->
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 ## ⚙️ other technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
 </p>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 ## 🎨 UI/UX Design Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🚧 Currently Learning
 
@@ -58,7 +68,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 🔐 Strengthening **Security & Auth Systems**
 - ⚡ State Management: **Redux** & **Vuex**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🧩 Featured Projects
 
@@ -70,7 +80,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 | [Agricultural System](https://agri-buddy.onrender.com/) | Role-based Agricultural dashboard | React, Node.js, MongoDB |
 | [Sacco Management Dashboard](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Achievements & Highlights
 
@@ -80,7 +90,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 📚 Built **multi-role authentication systems**
 - 💬 Backend developer at **Peculiar Technologies**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 📊 GitHub Insights
 
@@ -94,7 +104,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 </div>
 
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🔥 GitHub Streaks & Trophies
 
@@ -106,14 +116,14 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## ⏱️ Coding Activity (WakaTime)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 💬 Fun Facts
 
@@ -122,13 +132,17 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 🧩 I enjoy code refactoring, animation, and creative design  
 - 🎮 When not coding, I explore futuristic tech concepts  
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🌌 My Vision
 
 > “To merge design intelligence and code precision into future-ready digital systems.”
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## 💡 Philosophy
+> "I believe great design is invisible — it simply *feels right*."
+
 
 ## 🌐 Let's Connect
 
@@ -147,15 +161,14 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
   </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🧬 Contribution Snake
 <p align="center">
   <img src="https://github.com/Chemistry2i/Chemistry2i/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 <p align="center">
   <b style="color:#00FFFF;">💡 Let’s build the future — one line of code at a time.</b>
 </p> 
