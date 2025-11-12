@@ -26,7 +26,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
@@ -41,14 +41,14 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-## ⚙️ other technologies
+⚙️ Other technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-## 🎨 UI/UX Design Tools
+🎨 UI/UX Design Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" />
