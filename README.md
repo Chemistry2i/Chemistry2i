@@ -32,14 +32,6 @@ I blend **creativity with logic** — writing clean, maintainable code while des
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-
-<!-- <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,figma,git,github,vscode" />
-  <br/>
-  <b style="color:#00FFFF;">React</b> • <b style="color:#00FFFF;">Node.js</b> • <b style="color:#00FFFF;">MongoDB</b> • <b style="color:#00FFFF;">Figma</b>
-</p> -->
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 ⚙️ Other technologies
 
