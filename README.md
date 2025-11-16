@@ -1,4 +1,4 @@
-<h1 align="center">
+we<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Wambogo+Hassan+Sadat!;💻+MERN+Stack+Developer;🎨+UI/UX+Designer;🚀+Innovator+%7C+Tech+Visionary" alt="Typing Animation" />
 </h1>
 
@@ -73,7 +73,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Top 150 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
+- 🥇 **Top 100 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
 - 🚀 Contributed to multiple **open-source MERN projects**
 - 🎨 Designed **UI systems for futuristic dashboards**
 - 📚 Built **multi-role authentication systems**
