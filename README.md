@@ -31,14 +31,14 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-⚙️ Other technologies
+## ⚙️ Other technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-🎨 UI/UX Design Tools
+## 🎨 UI/UX Design Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" />
