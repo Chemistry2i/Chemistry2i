@@ -31,6 +31,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ## ⚙️ Other technologies
 
 <p align="left">
@@ -38,6 +39,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ## 🎨 UI/UX Design Tools
 
 <p align="left">
