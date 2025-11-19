@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/Passion-Innovation%20%26%20AI%20Integration-00BFFF?style=for-the-badge" />
 </p>
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
@@ -117,6 +116,8 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+![Profile Views](https://komarev.com/ghpvc/?username=Chemistry2i&color=blue)
+
 ## 💬 Fun Facts
 
 - ⚡ I design dashboards that *feel alive* ✨  
@@ -138,7 +139,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 ## 🌐 Let's Connect
 
-<div align="center">
+<div align="left">
   <a href="https://wambogo-sadat.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=About.me&logoColor=0D1117" />
   </a>
