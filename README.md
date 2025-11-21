@@ -78,6 +78,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Top 100 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
+- 🏅 **Wakatime Leaderboard (Uganda)** - [Rank 19](https://wakatime.com/leaders?page=1&country_code=UG)
 - 🚀 Contributed to multiple **open-source MERN projects**
 - 🎨 Designed **UI systems for futuristic dashboards**
 - 📚 Built **multi-role authentication systems**
