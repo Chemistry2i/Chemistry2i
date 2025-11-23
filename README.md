@@ -169,3 +169,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
   <b style="color:#00FFFF;">💡 Let’s build the future — one line of code at a time.</b>
 </p> 
 
+<a href="YOUR_RESUME_LINK_HERE" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-00FFFF?style=for-the-badge&logo=google-drive&logoColor=black" />
+</a>
+
