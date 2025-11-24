@@ -93,6 +93,55 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<!-- <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" /> -->
+
+## 🎓 Certifications
+
+Here are some of the certifications that strengthened my skills in frontend engineering, networking, and professional development:
+
+### 🧩 Professional Certificates
+
+#### 📘 Scrimba
+- **Frontend Developer Career Path**  
+- **JavaScript Deep Dive**  
+- **React Basics / Advanced React**
+
+#### 🟥 Frontend Masters
+- **Complete Intro to React**  
+- **CSS Grid & Flexbox Advanced**  
+- **JavaScript: The Hard Parts**  
+
+#### 🔵 Cisco Networking Academy
+- **JavaScript Essentials 1**  
+- **JavaScript Essentials 2**
+- **Green House Accounting**
+- **IT Customer Support Basics**
+- **CSS, Bootstrap**
+- **HTML**
+
+---
+
+### 📜 Certificate Badges (Optional Visual Version)
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrimba-Frontend_Developer-00FFFF?style=for-the-badge&logo=scrimba&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend_Masters-React_Developer-FF3C00?style=for-the-badge&logo=frontendmasters&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-Networking_Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+</p>
+
+---
+
+### 📁 (Optional) Certificate Gallery
+If you upload certificate images, use this gallery:
+
+<p align="center">
+  <img src="CERT1_IMG_URL" width="250" />
+  <img src="CERT2_IMG_URL" width="250" />
+  <img src="CERT3_IMG_URL" width="250" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+
 
 ## 📊 GitHub Insights
 
