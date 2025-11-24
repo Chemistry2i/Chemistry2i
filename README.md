@@ -38,7 +38,6 @@ I blend **creativity with logic** — writing clean, maintainable code while des
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## ⚙️ Other technologies
 
@@ -46,7 +45,6 @@ I blend **creativity with logic** — writing clean, maintainable code while des
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🎨 UI/UX Design Tools
 
@@ -68,7 +66,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 🔐 Strengthening **Security & Auth Systems**
 - ⚡ State Management: **Redux** & **Vuex**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🧩 Featured Projects
 
@@ -80,7 +77,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 | [Agricultural System](https://agri-buddy.onrender.com/) | Role-based Agricultural dashboard | React, Node.js, MongoDB |
 | [Sacco Management Dashboard](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Achievements & Highlights
 
