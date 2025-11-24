@@ -167,8 +167,8 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 <p align="center">
   <img src="img/java.png" width="250" />
-  <img src="CERT2_IMG_URL" width="250" />
-  <img src="CERT3_IMG_URL" width="250" />
+  <img src="img/js.png" width="250" />
+  <img src="img/git.png" width="250" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
