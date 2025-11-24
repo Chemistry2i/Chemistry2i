@@ -166,7 +166,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 ### 📁 Certificate Gallery
 
 <p align="center">
-  <img src="CERT1_IMG_URL" width="250" />
+  <img src="img/java.png" width="250" />
   <img src="CERT2_IMG_URL" width="250" />
   <img src="CERT3_IMG_URL" width="250" />
 </p>
