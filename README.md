@@ -130,31 +130,28 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 ## 🎓 Certifications
 
-Here are some of the certifications that strengthened my skills in frontend engineering, networking, and professional development:
+Here are some of the certifications that strengthened my skills in frontend engineering, backend development, and professional development:
 
-### 🧩 Professional Certificates
+<div align="left">
 
-#### 📘 Scrimba
-- **Node.js**  
-- **Express js**  
-- **Claude AI**
+<table>
+  <tr>
+    <th><img src="https://img.shields.io/badge/Scrimba-121212?style=for-the-badge&logo=scrimba&logoColor=white" /></th>
+    <th><img src="https://img.shields.io/badge/Frontend%20Masters-9F2B68?style=for-the-badge&logo=frontendmasters&logoColor=white" /></th>
+    <th><img src="https://img.shields.io/badge/Cisco_NetAcademy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /></th>
+  </tr>
+  <tr>
+    <td align="left">- <b>Node.js</b><br>- <b>Express.js</b><br>- <b>Claude AI</b></td>
+    <td align="left">- <b>JavaScript Deep Dive</b><br>- <b>Java Fundamentals</b><br>- <b>Version Control with Git</b></td>
+    <td align="left">- <b>JavaScript Essentials 1</b><br>- <b>JavaScript Essentials 2</b><br>- <b>Green House Accounting</b><br>- <b>IT Customer Support Basics</b><br>- <b>CSS, Bootstrap</b><br>- <b>HTML</b></td>
+  </tr>
+</table>
 
-#### 🟥 Frontend Masters
-- **JavaScript Deep Dive**  
-- **Java Fundamentals**  
-- **Version Control with Git**  
-
-#### 🔵 Cisco Networking Academy
-- **JavaScript Essentials 1**  
-- **JavaScript Essentials 2**
-- **Green House Accounting**
-- **IT Customer Support Basics**
-- **CSS, Bootstrap**
-- **HTML**
+</div>
 
 ---
 
-### 📜 Certificate Badges (Optional Visual Version)
+### 📜 Certificate Badges (Visual Version)
 <p align="left">
   <img src="https://img.shields.io/badge/Scrimba-Backend_Developer-00FFFF?style=for-the-badge&logo=scrimba&logoColor=black" />
   <img src="https://img.shields.io/badge/Frontend_Masters-Backend_Developer-FF3C00?style=for-the-badge&logo=frontendmasters&logoColor=white" />
@@ -165,7 +162,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 ### 📁 Certificate Gallery
 
-<p align="center">
+<p align="left">
   <img src="img/java.png" width="250" />
   <img src="img/js.png" width="250" />
   <img src="img/git.png" width="250" />
