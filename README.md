@@ -125,7 +125,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🎓 Certifications
-
+<!-- My Certificates -->
 Here are some of the certifications that strengthened my skills in frontend engineering, backend development, and professional development:
 
 <div align="left">
