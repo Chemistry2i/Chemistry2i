@@ -226,5 +226,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
 <!-- 
   Wambogo Hassan Sadat
   Bachelor's in Information Systems
+  Web Developer && System Analyst
 -->
 
