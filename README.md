@@ -68,7 +68,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 🔐 Strengthening **Security & Auth Systems**
 - ⚡ State Management: **Redux** & **Vuex**
 
-
+<!--M projects -->
 ## 🧩 Featured Projects
 
 | 🌐 Project | ⚙️ Description | 🚀 Stack |
