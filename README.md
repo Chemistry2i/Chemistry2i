@@ -32,6 +32,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 - 🔐 Secure authentication & multi-role systems  
 - 🚀 Real-time dashboards & high-performance apps  
 
+<!-- Technology stack -->
 
 ## ⚙️ Tech Stack
 
