@@ -80,7 +80,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 | [Agricultural System](https://agri-buddy.onrender.com/) | Role-based Agricultural dashboard | React, Node.js, MongoDB |
 | [Sacco Management Dashboard](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
 
-
+<!-- My Achievements-->
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Top 100 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
