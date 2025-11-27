@@ -92,7 +92,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-
+<!-- github insights-->
 ## 📊 GitHub Insights
 
 <div align="left">
