@@ -41,7 +41,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
-
+<!-- Technology stack -->
 ## ⚙️ Other technologies
 
 <p align="left">
