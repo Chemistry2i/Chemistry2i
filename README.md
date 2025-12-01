@@ -49,7 +49,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
 </p>
 
-<!-- Design Tools-->
+<!-- Design Tools and tech stack-->
 ## 🎨 UI/UX Design Tools
 
 <p align="left">
