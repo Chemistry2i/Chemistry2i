@@ -58,7 +58,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- What am currently -->
+<!-- What am currently Learning -->
 
 ## 🚧 Currently Learning
 
