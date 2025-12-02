@@ -1,5 +1,4 @@
 <!-- My profile Views -->
-<!-- Github Profile -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chemistry2i&color=blue)
 
 <!-- Wambogo Hassan Sadat -->
