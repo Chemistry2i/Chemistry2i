@@ -1,7 +1,7 @@
 <!-- My profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chemistry2i&color=blue)
 
-<!-- Wambogo Hassan Sadat BIS24-->
+<!-- Wambogo Hassan Sadat BIS-24-->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Wambogo+Hassan+Sadat!;💻+MERN+Stack+Developer;🎨+UI/UX+Designer;🚀+Innovator+%7C+Tech+Visionary" alt="Typing Animation" />
 </h1>
