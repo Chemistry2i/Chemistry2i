@@ -1,4 +1,4 @@
-<!-- My profile Views -->
+<!-- My profile Views through out-->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chemistry2i&color=blue)
 
 <!-- Wambogo Hassan Sadat BIS-24-27-->
