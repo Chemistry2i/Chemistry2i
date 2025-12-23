@@ -43,7 +43,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 </p>
 
 <!-- Technology stack -->
-## ⚙️ Other Technologies
+## 💻 Other Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
