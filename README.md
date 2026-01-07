@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Wambogo+Hassan+Sadat!;💻+MERN+Stack+Developer;🎨+UI/UX+Designer;🚀+Innovator+%7C+Tech+Visionary" alt="Typing Animation" />
 </h1>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Futuristic%20Web%20Designs-00FFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Code-Clean%20%26%20Scalable-0077FF?style=for-the-badge" />
