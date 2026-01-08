@@ -78,7 +78,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 | 🌐 Project | ⚙️ Description | 🚀 Stack |
 |-------------|----------------|-----------|
-| [Campus Voting System](https://campusballot.tech) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap, MySQL |
+| [Campus Ballot](https://campusballot.tech) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap, MySQL |
 | [Campus Alert System](https://github.com/Chemistry2i) | Class alerts & notifications system | MERN Stack |
 | [Portfolio Website](https://wambogo-sadat.onrender.com) | Personal futuristic portfolio | HTML, CSS, JS, FontAwesome |
 | [Agricultural System](https://agri-buddy.onrender.com/) | Role-based Agricultural dashboard | React, Node.js, MongoDB |
