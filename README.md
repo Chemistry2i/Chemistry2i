@@ -22,7 +22,7 @@
 I’m a **passionate MERN Stack Developer** who loves crafting **responsive, dynamic, and futuristic web apps**.  
 I blend **creativity with logic** — writing clean, maintainable code while designing stunning user interfaces.
 
-- 🌱 Currently building: **Campus Voting System (MERN)**
+- 🌱 Currently building: **Campus Ballot Voting System (MERN)**
 - 💡 Exploring: **Spring Boot APIs & Microservices**
 - 🤝 Open to collaborate on: **Innovative MERN or UI/UX projects**
 - 🎯 Mission: To craft *visually powerful* & *intelligently structured* web solutions that inspire users.
