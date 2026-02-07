@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/Passion-Innovation%20%26%20AI%20Integration-00BFFF?style=for-the-badge" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- About Me -->
 ## 🧠 About Me
@@ -84,8 +83,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 📚 Built **multi-role authentication systems**
 - 💬 Backend developer at **Peculiar Technologies**
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 <!-- github insights-->
 ## 📊 GitHub Insights
 
@@ -105,8 +102,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 </div>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 ## 🔥 GitHub Streaks & Trophies
 
 <p align="left">
@@ -116,8 +111,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## ⏱️ Coding Activity (WakaTime)
 <p align="left">
@@ -167,8 +160,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
   <img src="img/git.png" width="250" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 
 
 ## 💬 Fun Facts
@@ -178,13 +169,11 @@ Here are some of the certifications that strengthened my skills in frontend engi
 - 🧩 I enjoy code refactoring, animation, and creative design  
 - 🎮 When not coding, I explore futuristic tech concepts  
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 
 ## 🌌 My Vision
 
 > “To merge design intelligence and code precision into future-ready digital systems.”
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 💡 Philosophy
 > "I believe great design is invisible — it simply *feels right*."
@@ -206,8 +195,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FFFF" />
   </a>
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🧬 Contribution Snake
 <p align="center">
