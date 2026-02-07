@@ -36,31 +36,17 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 - ⚙️ Full-stack MERN development with scalable architecture  
 - 🎨 Futuristic UI/UX thinking (designs that feel alive)  
 - 🔐 Secure authentication & multi-role systems  
-- 🚀 Real-time dashboards & high-performance apps  
+- 🚀 Real-time dashboards & high-performance apps
 
-<!-- Technology stack -->
+### 🚀 My Tech Stack
 
-## ⚙️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
-
-<!-- OtherTechnologyies -->
-## 💻 Other Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,git,github,bootstrap,netlify,vercel,sqlite,vscode" />
-</p>
-
-<!-- Design Tools and tech stack-->
-## 🎨 UI/UX Design Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+| Category | Technologies | Icons |
+| :--- | :--- | :--- |
+| **📚 Tech Stack** | MongoDB, Express.js, React, Node.js | <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="35" /> |
+| **🌐 Frontend** | HTML5, CSS3, JavaScript, React, Bootstrap | <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap," height="35" /> |
+| **⚙️ Backend** | Java, Node.js, Express.js, MongoDB, SQLite | <img src="https://skillicons.dev/icons?i=java,mongodb,express,react,nodejs,sqlite" height="35" /> |
+| **🛠️ Tools** | Git, VS Code, Vercel, Netlify | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="35" /> |
+| **🎨 Design** | Figma, Photoshop, Illustrator, Webflow | <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" height="35" /> |
 
 <!-- What am currently Learning -->
 
