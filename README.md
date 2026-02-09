@@ -213,9 +213,9 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 
 <!-- 
-  Name: Wambogo Hassan Sadat
-  Institute: Kyambogo University
-  Course: Bachelor's in Information Systems
+  Wambogo Hassan Sadat
+  Kyambogo University
+  Bachelor's in Information Systems
   Web Developer && System Analyst
 -->
 
