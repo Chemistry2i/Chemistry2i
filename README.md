@@ -67,7 +67,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 | 🌐 Project | ⚙️ Description | 🚀 Stack |
 |-------------|----------------|-----------|
-| [Campus Ballot](https://campusballot.tech) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap, MySQL |
+| [Campus Ballot](https://www.campusballot.tech) | Secure online voting platform with real-time stats | MERN, JWT, Bootstrap, MySQL |
 | [Campus Alert System](https://github.com/Chemistry2i) | Class alerts & notifications system | MERN Stack |
 | [Portfolio Website](https://wambogohassansadat.dev) | Personal futuristic portfolio | HTML, CSS, JS, FontAwesome |
 | [Agricultural System](https://agri-buddy.onrender.com/) | Role-based Agricultural dashboard | React, Node.js, MongoDB |
@@ -76,7 +76,8 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 <!-- My Achievements-->
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Top 50 Committers (Uganda)** — [committers.top](https://committers.top/uganda_public)
+- 🥇 **Top 50 Committers (Uganda)** [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
+- 
 - 🏅 **Wakatime Leaderboard (Uganda)** - [Rank 10](https://wakatime.com/leaders?page=1&country_code=UG)
 - 🚀 Contributed to multiple **open-source MERN projects**
 - 🎨 Designed **UI systems for futuristic dashboards**
