@@ -77,7 +77,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 ## 🏆 Achievements & Highlights
 
 - 🥇 **Top 50 Committers (Uganda)** [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
-- 
 - 🏅 **Wakatime Leaderboard (Uganda)** - [Rank 10](https://wakatime.com/leaders?page=1&country_code=UG)
 - 🚀 Contributed to multiple **open-source MERN projects**
 - 🎨 Designed **UI systems for futuristic dashboards**
