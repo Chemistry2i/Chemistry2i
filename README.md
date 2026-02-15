@@ -217,6 +217,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
   Kyambogo University
   Bachelor's in Information Systems
   Web Developer && System Analyst
-  Duration : 3 years 
+  Duration : 3 years from 2024 - 2027
 -->
 
