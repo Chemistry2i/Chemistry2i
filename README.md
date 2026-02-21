@@ -71,7 +71,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 | [Campus Alert System](https://github.com/Chemistry2i) | Class alerts & notifications system | MERN Stack |
 | [Portfolio Website](https://wambogohassansadat.dev) | Personal futuristic portfolio | HTML, CSS, JS, FontAwesome |
 | [Agricultural System](https://agri-buddy.onrender.com/) | Role-based Agricultural dashboard | React, Node.js, MongoDB |
-| [Sacco Management Dashboard](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
+| [Sacco Management System](https://github.com/Chemistry2i) | Role-based financial dashboard | React, Node.js, MongoDB |
 | [RoomLink_UG](https://github.com/Chemistry2i) | Role-based Hostel Management System | React, Node.js, Express, MongoDB, JWT |
 
 
