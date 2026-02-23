@@ -88,11 +88,6 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 <div align="left">
 
-
-<!-- | ![Stats](https://github-readme-stats-weld-one-61.vercel.app/api?username=Chemistry2i&show_icons=true&theme=react&title_color=00FFFF&icon_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) | ![Languages](https://github-readme-stats-weld-one-61.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) |
-|---|---| -->
-
-
 | ![Stats](https://github-readme-stats-weld-one-61.vercel.app/api?username=Chemistry2i&show_icons=true&theme=react&title_color=00FFFF&icon_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) | ![Languages](https://github-readme-stats-weld-one-61.vercel.app/api/top-langs/?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&text_color=E0E0E0&bg_color=0D1117) |
 |---|---|
 
