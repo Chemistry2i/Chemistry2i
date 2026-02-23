@@ -206,7 +206,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
 </a>
 
 
-
 <!-- 
   Wambogo Hassan Sadat
   Kyambogo University
