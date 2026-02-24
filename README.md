@@ -156,7 +156,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 </p>
 
 
-
+<!-- My philosophy -->
 ## 💬 Fun Facts
 
 - ⚡ I design dashboards that *feel alive* ✨  
