@@ -43,7 +43,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 | **📚 Tech Stack** | MongoDB, Express.js, React, Node.js | <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="35" /> |
 | **🌐 Frontend** | HTML5, CSS3, JavaScript, React, Bootstrap | <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap," height="35" /> |
 | **⚙️ Backend** | Java, Node.js, Express.js, MongoDB, SQLite | <img src="https://skillicons.dev/icons?i=java,mongodb,express,nodejs,sqlite" height="35" /> |
-| **🛠️ Tools** | Git, Github, VS Code, Vercel, Netlify | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="35" /> |
+| **🛠️ Tools** | Git, Github, VS Code, Vercel, Netlify, Render | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="35" /> |
 | **🎨 Design** | Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD, Webflow | <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" height="35" /> |
 
 <!-- What am currently Learning -->
