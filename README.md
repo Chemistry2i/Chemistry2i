@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/6b793f3c-9cff-46c3-813b-f72236a1ce2a.svg)](https://wakatime.com/@6b793f3c-9cff-46c3-813b-f72236a1ce2a)
 
-<!-- My profile Views through out UNiversity-->
+<!-- My profile Views through out University-->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chemistry2i&color=blue)
 
 
