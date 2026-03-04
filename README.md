@@ -3,7 +3,7 @@ Expected year: 2027
 Course BIS -->
 [![wakatime](https://wakatime.com/badge/user/6b793f3c-9cff-46c3-813b-f72236a1ce2a.svg)](https://wakatime.com/@6b793f3c-9cff-46c3-813b-f72236a1ce2a)
 
-<!-- My profile Views through out University-->
+<!-- My profile Views -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Chemistry2i&color=blue)
 
 
@@ -205,7 +205,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
   <b style="color:#00FFFF;">💡 Let’s build the future — one line of code at a time.</b>
 </p> 
 
-<a href="YOUR_RESUME_LINK_HERE" target="_blank">
+<a href="MY_RESUME_LINK_HERE" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-00FFFF?style=for-the-badge&logo=google-drive&logoColor=black" />
 </a>
 
