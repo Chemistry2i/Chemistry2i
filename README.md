@@ -166,7 +166,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 - ⚡ I design dashboards that *feel alive* ✨  
 - 🧠 My philosophy: “Clean UI + Solid Logic = Perfection”  
 - 🧩 I enjoy code refactoring, animation, and creative design  
-- 🎮 When not coding, I explore futuristic tech concepts  
+- 🎮 When not coding, I explore futuristic tech concepts  and playing Videos
 
 
 
