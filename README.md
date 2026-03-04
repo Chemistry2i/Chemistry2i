@@ -217,6 +217,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
   Web Developer && System Analyst
   Duration : 3 years from 2024 - 2027
   Web Lead Kyucsa
-  Junior Developer at Peculiar           Technologies .
+  Junior Developer at Peculiar Technologies .
 -->
 
