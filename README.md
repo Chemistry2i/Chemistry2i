@@ -1,6 +1,8 @@
 <!-- Wambogo Hassan Sadat
 Expected year: 2027
 Course BIS -->
+[![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
+
 [![wakatime](https://wakatime.com/badge/user/6b793f3c-9cff-46c3-813b-f72236a1ce2a.svg)](https://wakatime.com/@6b793f3c-9cff-46c3-813b-f72236a1ce2a)
 
 <!-- My profile Views -->
