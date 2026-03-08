@@ -1,4 +1,3 @@
-<!-- 
 
 [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
 
