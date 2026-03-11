@@ -1,4 +1,4 @@
-<!-- Wambogo Hassan Sadat -->
+<!-- Wambogo Hassan Sadat BIS 2 -->
 
 [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
 
