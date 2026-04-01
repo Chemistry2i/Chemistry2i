@@ -217,6 +217,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 
 <!-- 
+
   Wambogo Hassan Sadat 
   Kyambogo University
   Bachelor's in Information Systems
@@ -224,5 +225,6 @@ Here are some of the certifications that strengthened my skills in frontend engi
   Duration : 3 years from 2024 - 2027
   Web Lead Kyucsa
   Junior Java Developer at Peculiar Technologies 
+  
 -->
 
