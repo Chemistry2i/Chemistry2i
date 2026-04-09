@@ -1,6 +1,6 @@
 <!--
  Wambogo Hassan Sadat
- BIS Year 2
+ BIS-Year-2
  2024 - 2027
  -->
 
