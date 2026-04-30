@@ -38,7 +38,7 @@ I blend **creativity with logic** — writing clean, maintainable code while des
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<!-- My strengths in this system-->
+<!-- My strengths in this system is actually confidedntial -->
 ## 💡 Core Strengths
 - ⚙️ Full-stack MERN development with scalable architecture  
 - 🎨 Futuristic UI/UX thinking (designs that feel alive)  
