@@ -1,7 +1,5 @@
 
 
-
-
 <!--
 Wambogo Hassan Sadat
  BIS-Year-2
@@ -88,7 +86,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 <!-- My Achievements-->
 ## 🏆 Achievements & Highlights
 
-- 🥇 **Top 50 Committers (Uganda)** [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
+- 🥇 **Top 20 Committers (Uganda)** [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
 - 🏅 **Wakatime Leaderboard (Uganda)** - [Rank 10](https://wakatime.com/leaders?page=1&country_code=UG)
 - 🚀 Contributed to multiple **open-source MERN projects**
 - 🎨 Designed **UI systems for futuristic dashboards**
