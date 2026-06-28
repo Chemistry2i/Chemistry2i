@@ -26,13 +26,15 @@ Wambogo Hassan Sadat
 <!-- About Me -->
 ## 🧠 About Me
 
-I’m a **passionate MERN Stack Developer** who loves crafting **responsive, dynamic, and futuristic web apps**.  
-I blend **creativity with logic** — writing clean, maintainable code while designing stunning user interfaces.
+I am a **Systems Analyst and MERN Stack Developer** focused entirely on building, scaling, and deploying high-utility production software architectures. I bridge the gap between complex backend logic and immersive, high-fidelity digital design to create enterprise-ready applications. 
 
-- 🌱 Currently building: **Campus Ballot Voting System (MERN)**
-- 💡 Exploring: **Spring Boot APIs & Microservices**
-- 🤝 Open to collaborate on: **Innovative MERN or UI/UX projects**
-- 🎯 Mission: To craft *visually powerful* & *intelligently structured* web solutions that inspire users.
+Currently driving tech-stack execution, branch-governance strategy, and collaborative open-source workflows across the university ecosystem.
+
+*   **⚡ Current Technical Leadership:** Web Lead for the **Kyambogo University Computer Students Association (KYUCSA)**.
+*   **🚀 Core Initiative:** Founder and Lead Architect of **Concept Crashers**, an elite dev group delivering award-winning, localized software utilities.
+*   **🌱 Active Ecosystem Deployment:** Engineering **Campus Ballot**, a secure digital voting system utilizing continuous integration and advanced API management.
+*   **💡 Technical Expansion:** Orchestrating **Spring Boot APIs, microservices**, and investigating distributed data integrity layers.
+*   **🎯 Mission:** To eliminate passive tutorial culture on campus by designing, deploying, and maintaining live, transparent software infrastructures.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
