@@ -31,7 +31,7 @@ I am a **Systems Analyst and MERN Stack Developer** focused entirely on building
 
 Currently driving tech-stack execution, branch-governance strategy, and collaborative open-source workflows across the university ecosystem.
 
-*   **⚡ Current Technical Leadership:** Web Lead for the **Kyambogo University Computer Students Association (KYUCSA)**.
+*   **⚡ Current Technical Leadership:** Web Lead for the **Kyambogo University Computing Students Association (KYUCSA)**.
 *   **🚀 Core Initiative:** Founder and Lead Architect of **Concept Crashers**, an elite dev group delivering award-winning, localized software utilities.
 *   **🌱 Active Ecosystem Deployment:** Engineering **Campus Ballot**, a secure digital voting system utilizing continuous integration and advanced API management.
 *   **💡 Technical Expansion:** Orchestrating **Spring Boot APIs, microservices**, and investigating distributed data integrity layers.
