@@ -30,31 +30,31 @@ I am a **Systems Analyst and MERN Stack Developer** focused entirely on building
 
 Currently driving tech-stack execution, branch-governance strategy, and collaborative open-source workflows across the university ecosystem.
 
-*   **⚡ Current Technical Leadership:** President for the **Kyambogo University Computing Students Association (KYUCSA)**.
-*   **🚀 Core Initiative:** Founder and Lead Architect of **Concept Crashers**, an elite dev group delivering award-winning, localized software utilities.
-*   **🌱 Active Ecosystem Deployment:** Engineering **Campus Ballot**, a secure digital voting system utilizing continuous integration and advanced API management.
-*   **💡 Technical Expansion:** Orchestrating **Spring Boot APIs, microservices**, and investigating distributed data integrity layers.
-*   **🎯 Mission:** To eliminate passive tutorial culture on campus by designing, deploying, and maintaining live, transparent software infrastructures.
+*   ** Current Technical Leadership:** President for the **Kyambogo University Computing Students Association (KYUCSA)**.
+*   ** Core Initiative:** Founder and Lead Architect of **Concept Crashers**, an elite dev group delivering award-winning, localized software utilities.
+*   ** Active Ecosystem Deployment:** Engineering **Campus Ballot**, a secure digital voting system utilizing continuous integration and advanced API management.
+*   ** Technical Expansion:** Orchestrating **Spring Boot APIs, microservices**, and investigating distributed data integrity layers.
+*   ** Mission:** To eliminate passive tutorial culture on campus by designing, deploying, and maintaining live, transparent software infrastructures.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- My strengths in this system is actually confidedntial -->
 ## Core Strengths
-- ⚙️ Full-stack MERN development with scalable architecture  
-- 🎨 Futuristic UI/UX thinking (designs that feel alive)  
-- 🔐 Secure authentication & multi-role systems  
-- 🚀 Real-time dashboards & high-performance apps
+-  Full-stack MERN development with scalable architecture  
+-  Futuristic UI/UX thinking (designs that feel alive)  
+-  Secure authentication & multi-role systems  
+-  Real-time dashboards & high-performance apps
 
 
 ## My Tech Stack
 
 | Category | Technologies | Icons |
 | :--- | :--- | :--- |
-| **📚 Tech Stack** | MongoDB, Express.js, React, Node.js | <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="35" /> |
-| **🌐 Frontend** | HTML5, CSS3, JavaScript, React, Bootstrap | <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap," height="35" /> |
-| **⚙️ Backend** | Java, Node.js, Express.js, MongoDB, SQLite | <img src="https://skillicons.dev/icons?i=java,mongodb,express,nodejs,sqlite" height="35" /> |
-| **🛠️ Tools** | Git, Github, VS Code, Vercel, Netlify, Render | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="35" /> |
-| **🎨 Design** | Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD, Webflow | <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" height="35" /> |
+| ** Tech Stack** | MongoDB, Express.js, React, Node.js | <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" height="35" /> |
+| ** Frontend** | HTML5, CSS3, JavaScript, React, Bootstrap | <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap," height="35" /> |
+| ** Backend** | Java, Node.js, Express.js, MongoDB, SQLite | <img src="https://skillicons.dev/icons?i=java,mongodb,express,nodejs,sqlite" height="35" /> |
+| ** Tools** | Git, Github, VS Code, Vercel, Netlify, Render | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" height="35" /> |
+| ** Design** | Figma, Adobe Photoshop, Adobe Illustrator, Adobe XD, Webflow | <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,webflow" height="35" /> |
 
 <!-- What am currently Learning -->
 
@@ -66,9 +66,9 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
   <img src="https://skillicons.dev/icons?i=java,mysql,vue,spring" />
 </p>
 
-- ⚙️ Building RESTful APIs with **Spring Boot**
-- 🔐 Strengthening **Security & Auth Systems**
-- ⚡ State Management: **Redux** & **Vuex**
+-  Building RESTful APIs with **Spring Boot**
+-  Strengthening **Security & Auth Systems**
+-  State Management: **Redux** & **Vuex**
 
 <!--M projects -->
 ## Featured Projects
