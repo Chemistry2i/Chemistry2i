@@ -24,7 +24,7 @@ Wambogo Hassan Sadat
 
 
 <!-- About Me -->
-## 🧠 About Me
+## About Me
 
 I am a **Systems Analyst and MERN Stack Developer** focused entirely on building, scaling, and deploying high-utility production software architectures. I bridge the gap between complex backend logic and immersive, high-fidelity digital design to create enterprise-ready applications. 
 
@@ -39,14 +39,14 @@ Currently driving tech-stack execution, branch-governance strategy, and collabor
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- My strengths in this system is actually confidedntial -->
-## 💡 Core Strengths
+## Core Strengths
 - ⚙️ Full-stack MERN development with scalable architecture  
 - 🎨 Futuristic UI/UX thinking (designs that feel alive)  
 - 🔐 Secure authentication & multi-role systems  
 - 🚀 Real-time dashboards & high-performance apps
 
 
-## 🚀 My Tech Stack
+## My Tech Stack
 
 | Category | Technologies | Icons |
 | :--- | :--- | :--- |
@@ -58,7 +58,7 @@ Currently driving tech-stack execution, branch-governance strategy, and collabor
 
 <!-- What am currently Learning -->
 
-## 🚧 Currently Learning
+## Currently Learning
 
 Expanding my full-stack toolkit with new frameworks and backend expertise:
 
@@ -71,7 +71,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - ⚡ State Management: **Redux** & **Vuex**
 
 <!--M projects -->
-## 🧩 Featured Projects
+## Featured Projects
 
 | 🌐 Project | ⚙️ Description | 🚀 Stack |
 |-------------|----------------|-----------|
@@ -84,7 +84,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 
 <!-- My Achievements-->
-## 🏆 Achievements & Highlights
+## Achievements & Highlights
 
 - 🥇 **Top 20 Committers (Uganda)** [![committers.top badge](https://user-badge.committers.top/uganda/Chemistry2i.svg)](https://user-badge.committers.top/uganda/Chemistry2i)
 - 🏅 **Wakatime Leaderboard (Uganda)** - [Rank 10](https://wakatime.com/leaders?page=1&country_code=UG)
@@ -94,7 +94,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 - 💬 Backend developer at **Peculiar Technologies**
 
 <!-- github insights-->
-## 📊 GitHub Insights
+## GitHub Insights
 
 <div align="left">
 
@@ -107,7 +107,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 </div>
 
 
-## 🔥 GitHub Streaks & Trophies
+## GitHub Streaks & Trophies
 
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=Chemistry2i&theme=tokyonight&ring=00FFFF&fire=00BFFF&currStreakNum=00FFFF" alt="GitHub Streaks" />
@@ -125,7 +125,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🎓 Certifications
+## Certifications
 <!-- My Certificates since -->
 Here are some of the certifications that strengthened my skills in frontend engineering, backend development, and professional development:
 
@@ -148,7 +148,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 ---
 
-### 📜 Certificate Badges (Visual Version)
+### Certificate Badges (Visual Version)
 <p align="left">
   <img src="https://img.shields.io/badge/Scrimba-Backend_Developer-00FFFF?style=for-the-badge&logo=scrimba&logoColor=black" />
   <img src="https://img.shields.io/badge/Frontend_Masters-Backend_Developer-FF3C00?style=for-the-badge&logo=frontendmasters&logoColor=white" />
@@ -157,7 +157,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 ---
 
-### 📁 Certificate Gallery
+### Certificate Gallery
 
 <p align="left">
   <img src="img/java.png" width="250" />
@@ -167,7 +167,7 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 
 <!-- My philosophy -->
-## 💬 Fun Facts
+## Fun Facts
 
 - ⚡ I design dashboards that *feel alive* ✨  
 - 🧠 My philosophy: “Clean UI + Solid Logic = Perfection”  
@@ -176,15 +176,15 @@ Here are some of the certifications that strengthened my skills in frontend engi
 
 
 
-## 🌌 My Vision
+## My Vision
 
 > “To merge design intelligence and code precision into future-ready digital systems.”
 
-## 💡 Philosophy
+## Philosophy
 > "I believe great design is invisible — it simply *feels right*."
 
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="left">
   <a href="https://wambogohassansadat.dev" target="_blank">
