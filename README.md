@@ -117,7 +117,7 @@ Expanding my full-stack toolkit with new frameworks and backend expertise:
   <img src="https://github-profile-trophy.vercel.app/?username=Chemistry2i&theme=algolia&no-bg=true&margin-w=15" alt="Trophies" />
 </p>
 
-## ⏱️ Coding Activity (WakaTime)
+## Coding Activity (WakaTime)
 <p align="left">
   <img src="https://github-readme-stats-weld-one-61.vercel.app/api/wakatime?username=Chemistry2i&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
 </p>
